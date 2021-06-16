@@ -16,7 +16,7 @@ public class GithubProyecto1 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
-        System.out.println("Version Jonnathan");
+        System.out.println("Version Jonnathan Version 0");
     }
     
 }
